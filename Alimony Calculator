@@ -44,7 +44,7 @@
     <script>
         function showResults() {
             // Fixed number based on NCRB statistics
-            const maleSuicidesDueToFalseCases = 32000; // Example number, replace with actual NCRB data if needed
+            const maleSuicidesDueToFalseCases = 81000; // Example number, replace with actual NCRB data if needed
 
             // Display results
             const resultsDiv = document.getElementById('results');
